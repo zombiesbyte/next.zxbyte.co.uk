@@ -1,10 +1,5 @@
 # Readme
 
-## To Do
-
-- responsive design
-- documentation (filenames)
-
 ## FAQ
 
 - Q: What's the difference between having my game featured in a main yearly listings and a game just listed in the "Free" section.
